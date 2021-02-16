@@ -64,9 +64,10 @@ portfolio:
 #    end: "Be Part <br> of Our <br> Story!"
 
 about:
+    section: about
     title: "About Us"
     text: "Greer, Zeynep, and Ralf first began working together as academic researchers at Imperial College London and the London School of Economics and Political Science. We founded pow-dr after five years of conducting research into the technical feasibility of what has now become our product, as well as the motivations of our prospective users. Throughout our experience, we recognized myriad possibilities to enable our users to be rewarded for doing good, and most importantly to have true agency in the renewable energy transition and climate change mitigation. Our hope is that the growing network of our users around the world--our Pow-dr Planet--will dramatically attenuate the need for fossil fuel generation to back up our renewable generation sources when the sun isn't shining and the wind isn't blowing."
-    section: about
+    
 #clients:
 #    section: clients
 #    max-height: 100px
@@ -123,7 +124,7 @@ team:
             icon: fab fa-twitter
           - url: https://mondpanther.github.io/wwwmondpanther/
             icon: fal fa-globe
-            
+
           
 contact:
     title: "Contact Us"
