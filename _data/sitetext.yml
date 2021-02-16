@@ -105,7 +105,7 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
- - name: "Kate Lowes"
+      - name: "Kate Lowes"
         role: "Technology"
         image: assets/img/team/kate.JPG
         social:
