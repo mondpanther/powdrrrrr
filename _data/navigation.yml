@@ -6,7 +6,7 @@ nav:
     section: portfolio
     
   - title: "About"
-    section: timeline
+    section: about
 
   - title: "Team"
     section: team
