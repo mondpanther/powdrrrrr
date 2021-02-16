@@ -92,7 +92,7 @@ team:
           - url: https://twitter.com/greergo
             icon: fab fa-twitter
           - url: https://greergosnell.wixsite.com/personal
-            icon:
+            icon: fab fa-globe
           - url: https://www.linkedin.com/in/greer-gosnell/
             icon: fab fa-linkedin-in
       - name: "Zeynep Gurguc"
@@ -119,10 +119,10 @@ team:
         role: "Research and Innovation"
         image: assets/img/team/ralf.jpg
         social:
-          - url: https://twitter.com
+          - url: https://twitter.com/mondpanther
             icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
+          - url: https://mondpanther.github.io/wwwmondpanther/
+            icon: fab fa-globe
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
           
