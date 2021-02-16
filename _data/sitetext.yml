@@ -1,7 +1,7 @@
 header:
-    title: Making the energy you use cleaner and cheaper
+    title: Making your energy use cleaner and cheaper
     text:
-    button: Sign up
+    button: More    # Let's change this to signup when we actually have something to sign up
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
