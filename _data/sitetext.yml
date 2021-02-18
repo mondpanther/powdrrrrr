@@ -92,7 +92,7 @@ team:
           - url: https://twitter.com/greergo
             icon: fab fa-twitter
           - url: https://greergosnell.wixsite.com/personal
-            icon: fal fa-globe
+            icon: fas fa-globe
           - url: https://www.linkedin.com/in/greer-gosnell/
             icon: fab fa-linkedin-in
       - name: "Zeynep Gurguc"
