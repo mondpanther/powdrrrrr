@@ -14,10 +14,10 @@ services:
         icon: fas fa-plug #find more at https://fontawesome.com/icons
       - title: "Grid load balancing"
         desc: "We offer device level power control that can help balancing the electricity grid"
-        icon: fas fa-laptop       
+        icon: fas fa-balance-scale       
       - title: "Syncing energy use with renewable energy supply"
         desc: "We move power consumption to the least polluting times"
-        icon: fab temperature-down
+        icon: fas fa-temperature-high
 
 mission:
     title: 
