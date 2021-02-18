@@ -122,7 +122,7 @@ team:
           - url: https://twitter.com/mondpanther
             icon: fab fa-twitter
           - url: https://mondpanther.github.io/wwwmondpanther/
-            icon: fal fa-globe
+            icon: fas fa-globe
 
           
 contact:
