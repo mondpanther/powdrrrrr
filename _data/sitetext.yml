@@ -87,7 +87,7 @@ team:
     people:
       - name: "Greer Gosnell"
         role: "Market development"
-        image: assets/img/team/avatar.jpg
+        image: assets/img/team/greer2019.jpg
         social:
           - url: https://twitter.com/greergo
             icon: fab fa-twitter
