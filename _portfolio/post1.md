@@ -10,7 +10,7 @@ caption:
   thumbnail: https://github.com/mondpanther/powdrrrrr/raw/master/assets/img/balance/forposts/flash1.jpg
 ---
 
-We has so much to say...just not yet.
+We has so much to say...just not yet.....ok let me say this: test
 
 {:.list-inline}
 - Date: December 2020
