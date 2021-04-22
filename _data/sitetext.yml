@@ -1,7 +1,7 @@
 header:
-    title: Making the energy you use cleaner and cheaper
+    title: Making your energy use cleaner and cheaper
     text:
-    button: Sign up
+    button: Tell me More    # Let's change this to signup when we actually have something to sign up
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
@@ -10,15 +10,14 @@ services:
     section: services
     list:
       - title: "Energy monitoring and analytics"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas power-off #find more at https://fontawesome.com/icons
+        desc: "With our technology we can monitor power usage at the device level and build analytic solutions based on that"
+        icon: fas fa-plug #find more at https://fontawesome.com/icons
       - title: "Grid load balancing"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
+        desc: "We offer device level power control that can help balancing the electricity grid"
+        icon: fas fa-balance-scale       
       - title: "Syncing energy use with renewable energy supply"
-        desc: "We move power co
-        nsumption to the least polluting times"
-        icon: fab temperature-down
+        desc: "We move power consumption to the least polluting times"
+        icon: fas fa-temperature-high
 
 mission:
     title: 
@@ -64,20 +63,11 @@ As academics, we bring and generate insights from behavioral economics, randomiz
 #    end: "Be Part <br> of Our <br> Story!"
 
 about:
+    section: about
     title: "About Us"
     text: "Greer, Zeynep, and Ralf began working together as academic researchers at Imperial College London and the London School of Economics and Political Science. We founded pow-dr after five years of conducting research into the technical feasibility of what has now become our product, and user interactions with its various features. Throughout our experience, we recognized the powerful possibility to enable our users to be rewarded for doing good, and most importantly to have true agency in the renewable energy transition and climate change mitigation. We envision a near-term future in which the growing network of our users around the world--our pow-dr planet--eliminates the need for fossil fuel generation to back up our renewable generation sources when the sun isn't shining and the wind isn't blowing."
     section: about
-#clients:
-#    section: clients
-#    max-height: 100px
-#    horizontal-scrolling: "" #"yes/no"
-#    list:
-#      - title: "envato"
-#        url: https://github.com/raviriley/agency-jekyll-theme
-#        logo: assets/img/clients/envato.jpg
-#      - title: "designmodo"
-#        url: https://github.com/raviriley/agency-jekyll-theme
-#        logo: assets/img/clients/designmodo.jpg
+
     
 team:
     title: "OUR TEAM"
@@ -92,7 +82,7 @@ team:
           - url: https://twitter.com/greergo
             icon: fab fa-twitter
           - url: https://greergosnell.wixsite.com/personal
-            icon:
+            icon: fas fa-globe
           - url: https://www.linkedin.com/in/greer-gosnell/
             icon: fab fa-linkedin-in
       - name: "Zeynep Gurguc"
@@ -101,20 +91,18 @@ team:
         social:
           - url: https://twitter.com/zeynepgurguc
             icon: fab fa-twitter
-          #- url: https://facebook.com
-          #  icon: fab fa-facebook-f
           - url: https://www.linkedin.com/in/zeynep-gurguc-03634a5/
             icon: fab fa-linkedin-in
       - name: "Ralf Martin"
         role: "Research and Innovation"
         image: assets/img/team/ralf.jpg
         social:
-          - url: https://twitter.com
+          - url: https://twitter.com/mondpanther
             icon: fab fa-twitter
-          #- url: https://facebook.com
-          #  icon: fab fa-facebook-f
           - url: https://www.linkedin.com/in/ralf-martin-72269b1/
             icon: fab fa-linkedin-in
+          - url: https://mondpanther.github.io/wwwmondpanther/
+            icon: fas fa-globe
       - name: "Kate Lowes"
         role: "Technology"
         image: assets/img/team/kate.JPG
@@ -125,8 +113,12 @@ team:
           #  icon: fab fa-facebook-f
           - url: https://www.linkedin.com/in/kate-l-2877b913/
             icon: fab fa-linkedin-in     
+          
+
+          
 contact:
-    title: "Contact Us"
+    title: "Questions? Let's Connect!"
+    text: "We're ready to help you achieve your energy goals"
     section: contact
     
 footer:

@@ -10,9 +10,10 @@ caption:
   thumbnail: https://github.com/mondpanther/powdrrrrr/raw/master/assets/img/balance/forposts/flash1.jpg
 ---
 
+<<<<<<< HEAD
 Ever wonder how your home electronics and appliances are always running? Or why your utility has suddenly started charging you more for your energy use during some hours and not others? Or just what those ugly black wires are doing blocking your otherwise scenic window view?
 
-I used to wonder that, too. Back in college (Go Lions!), when I first started learning about climate change and the tremendously unequal impacts it would have on the world’s poorest despite being caused by high-emitting countries like my own, I was extremely motivated to change my behavior to align with my values. I went vegetarian, and later vegan. I bought a bike. I became obsessive about minimizing my own food waste, and shopping at my local farmer’s market. And in doing so, I hoped to be setting an example for my peers.
+I used to wonder all that, too. Back in college (Go Lions!), when I first started learning about climate change and the tremendously unequal impacts it would have on the world’s poorest despite being caused by high-emitting countries like my own, I was extremely motivated to change my behavior to align with my values. I went vegetarian, and later vegan. I bought a bike. I became obsessive about minimizing my own food waste, and shopping at my local farmer’s market. And in doing so, I hoped to be setting an example for my peers.
 
 Additionally, a sliver of my attention became continuously preoccupied with whether I could turn things off. Not using this room? Lights off. Not using that phone charger? Unplug. No longer watching that TV? Power down.
 
@@ -32,6 +33,7 @@ Here’s where automation can make all the difference. Imagine if our appliances
 
 That’s the future we envision at pow-dr, and we hope you’ll be an enthusiastic partner in achieving it. Because – as I learned the hard way via economics games – for everyone to win, we all have to do our part.
 
+=======
 
 {:.list-inline}
 - Date: April 22, 2021
