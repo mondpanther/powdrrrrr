@@ -10,7 +10,6 @@ caption:
   thumbnail: https://github.com/mondpanther/powdrrrrr/raw/master/assets/img/balance/forposts/flash1.jpg
 ---
 
-<<<<<<< HEAD
 Ever wonder how your home electronics and appliances are always running? Or why your utility has suddenly started charging you more for your energy use during some hours and not others? Or just what those ugly black wires are doing blocking your otherwise scenic window view?
 
 I used to wonder all that, too. Back in college (Go Lions!), when I first started learning about climate change and the tremendously unequal impacts it would have on the world’s poorest despite being caused by high-emitting countries like my own, I was extremely motivated to change my behavior to align with my values. I went vegetarian, and later vegan. I bought a bike. I became obsessive about minimizing my own food waste, and shopping at my local farmer’s market. And in doing so, I hoped to be setting an example for my peers.
