@@ -4,5 +4,5 @@ white: "#FF99EE"
 black: "#000"
 
 #Image Customization
-header-image:  "../img/solar_black_orange_magenta.jpg"
-contact-image: "../img/transmission_orange_to_red.png"
+header-image:  "../img/photos/solar_black_orange_magenta.jpg"
+contact-image: "../img/photos/transmission_orange_to_red.png"
