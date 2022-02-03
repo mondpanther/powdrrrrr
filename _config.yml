@@ -17,7 +17,7 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "https://mondpanther.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/powdrrrrr" # the subpath of your site, e.g. /blog
 
-title      : powdr energy
+title      : Pow-dr Technologies Ltd
 email      : team@pow-dr.io #this is also the email contact forms will go to
 description: "Load balancing and energy consumption analytics"
 

@@ -4,12 +4,14 @@
       <div class="row">
         <div class="col-lg-12 text-center">
           <h2 class="section-heading text-uppercase">{{ site.data.sitetext.about.title | default: "About Us" }}</h2>
-          <h3 class="section-subheading text-muted">{{ site.data.sitetext.about.subtitle | default: "" }}</h3>
+          <p>&nbsp;</p>
+          <h6 class="section-subheading">{{ site.data.sitetext.about.subtitle | default: "" }}</h6>
+          <p>&nbsp;</p>
         </div>
       </div>
 	  <div class="row">
-		<div class="col-lg-8 mx-auto text-center">
-		  <div class="large text-muted">{{ site.data.sitetext.about.text | markdownify }}</div>
+		<div class="col-lg-8 mx-auto">
+		  <div class="large">{{ site.data.sitetext.about.text | markdownify }}</div>
 		</div>
 	  </div>
     </div>

@@ -1,24 +1,38 @@
 header:
     title: Making the energy you use cleaner and cheaper
     text:
-    button: Sign up
+    button: Browse Our Services
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
+about:
+    title: About Us
+    subtitle: "Pow-dr is a B2B service provider that helps change energy demand profiles - at scale!"
+    text: "**Our origins**: Greer, Zeynep, and Ralf began working together as academic researchers at Imperial College London and the London School of Economics and Political Science. We founded pow-dr after five years of conducting research into the technical feasibility of what has now become our product. We tested user interactions with the product's various features with the academic rigour of behavioural economic analysis.<br>  
+<br>  
+**Our inspiration**: Throughout our experience, we recognized the powerful possibility to enable our users to be rewarded for doing good, and most importantly to have true agency in the renewable energy transition and climate change mitigation.<br>  
+<br>  
+**Our mission**: We are enabling a near-term future in which the growing network of our users around the world--our pow-dr planet--eliminates the need for fossil fuel generation to back up renewable generation sources when the sun isn't shining and the wind isn't blowing."
+    section: about
+
+portfolio:
+    title: Blog Articles
+    text: "Read our blog articles to follow our journey."
+    section: portfolio
+
 services:
-    title:
-    text:
+    title: Our Services
+    text: " "
     section: services
     list:
       - title: "Energy monitoring and analytics"
-        #desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas power-off #find more at https://fontawesome.com/icons
+        desc: "We provide a simple and effective technology platform to support our clients in measuring appliance-specific energy use."
+        icon: fa fa-power-off #find more at https://fontawesome.com/icons
       - title: "Grid load balancing"
-        #desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "By switching off a network of localized devices, we support the matching of electricity demand with supply to avoid unexpected outages."
         icon: fas fa-laptop       
-      - title: "Syncing energy use with renewable energy supply"
-        #desc: "We move power co
-        nsumption to the least polluting times"
-        icon: fab temperature-down
+      - title: "Syncing use with renewable supply"
+        desc: "Our platform can facilitate reliance on renewable electricity sources like wind and solar by shifting consumption patterns, reducing the need for fossil fuel generation."
+        icon: fas fa-temperature-low
 
 mission:
     title: 
@@ -63,10 +77,7 @@ As academics, we bring and generate insights from behavioral economics, randomiz
 #        align: right
 #    end: "Be Part <br> of Our <br> Story!"
 
-about:
-    title: "About Us"
-    text: "Greer, Zeynep, and Ralf began working together as academic researchers at Imperial College London and the London School of Economics and Political Science. We founded pow-dr after five years of conducting research into the technical feasibility of what has now become our product, and user interactions with its various features. Throughout our experience, we recognized the powerful possibility to enable our users to be rewarded for doing good, and most importantly to have true agency in the renewable energy transition and climate change mitigation. We envision a near-term future in which the growing network of our users around the world--our pow-dr planet--eliminates the need for fossil fuel generation to back up our renewable generation sources when the sun isn't shining and the wind isn't blowing."
-    section: about
+
 #clients:
 #    section: clients
 #    max-height: 100px
@@ -80,21 +91,21 @@ about:
 #        logo: assets/img/clients/designmodo.jpg
     
 team:
-    title: "OUR TEAM"
+    title: Our Team
     text: ""
     subtext: ""
     section: team
     people:
       - name: "Greer Gosnell"
         role: "Product development"
-        image: assets/img/team/greer2019.jpg
+        image: assets/img/team/greer2019c.jpg
         social:
           - url: https://twitter.com/greergo
             icon: fab fa-twitter
           - url: https://www.linkedin.com/in/greer-gosnell/
             icon: fab fa-linkedin-in
           - url: https://greergosnell.wixsite.com/personal
-            icon:
+            icon: fas fa-comment-dots
       - name: "Zeynep Gurguc"
         role: "Operations"
         image: assets/img/team/zeynep.jpg
@@ -107,7 +118,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "Ralf Martin"
         role: "Research and Innovation"
-        image: assets/img/team/ralf.jpg
+        image: assets/img/team/ralfMartin.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -115,18 +126,18 @@ team:
           #  icon: fab fa-facebook-f
           - url: https://www.linkedin.com/in/ralf-martin-72269b1/
             icon: fab fa-linkedin-in
-      - name: "Kate Lowes"
+      - name: "Steve Todd"
         role: "Technology"
-        image: assets/img/team/kate.JPG
+        image: assets/img/team/steveTodd.jpg
         social:
-          - url: https://twitter.com/k8conversations
+          - url: https://twitter.com/stevetodd_cgft
             icon: fab fa-twitter
           #- url: https://facebook.com
           #  icon: fab fa-facebook-f
-          - url: https://www.linkedin.com/in/kate-l-2877b913/
+          - url: https://www.linkedin.com/in/steve-todd-8509a11/
             icon: fab fa-linkedin-in     
 contact:
-    title: "Get in Touch"
+    title: Get in Touch
     section: contact
     
 footer:
