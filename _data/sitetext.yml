@@ -32,7 +32,7 @@ services:
         icon: fas fa-laptop       
       - title: "Syncing use with renewable supply"
         desc: "Our platform can facilitate reliance on renewable electricity sources like wind and solar by shifting consumption patterns, reducing the need for fossil fuel generation."
-        icon: fas fa-temperature-low
+        icon: fas fa-fan
 
 mission:
     title: 
