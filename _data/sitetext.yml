@@ -140,11 +140,11 @@ team:
         role: "Policy and Stakeholder Engagement"
         image: assets/img/team/teevratGarg.jpg
         social:
-          - url: https://twitter.com/
+          - url: https://twitter.com/teevrat
             icon: fab fa-twitter
           #- url: https://facebook.com
           #  icon: fab fa-facebook-f
-          - url: https://www.linkedin.com/
+          - url: https://www.linkedin.com/in/teevrat-garg-32052629/
             icon: fab fa-linkedin-in
 contact:
     title: Get in Touch
